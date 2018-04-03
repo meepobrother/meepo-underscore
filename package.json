@@ -19,7 +19,7 @@
         "dest": "../../../meepo/underscore",
         "workingDirectory": "./.ng_build",
         "lib": {
-            "entryFile": "./public_api.ts"
+            "entryFile": "./src/public_api.ts"
         }
     }
 }
